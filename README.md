@@ -29,4 +29,9 @@ this is
 
 ---
 
+### Thats a inline code
+`System.out.println("Hello World");`
 
+---
+
+![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "markdown")
