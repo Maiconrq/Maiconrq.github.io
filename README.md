@@ -30,8 +30,45 @@ this is
 ---
 
 ### Thats a inline code
-`System.out.println("Hello World");`
+`
+System.out.println("Hello World");
+`
 
 ---
 
 ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "markdown")
+
+---
+
+<!-- Github MarkDown--> 
+
+### This is a block of code
+```java
+Class Main(){
+ System.out.println();
+}
+```
+```javascript
+Class Main(){
+ System.out.println();
+}
+```
+
+```python
+  def add(num1, num2):
+    return num1 + num2
+```
+---
+
+<!-- Tables -->
+| Name     | Email          |
+| -------- | -------------- |
+| John Doe | john@gmail.com |
+| Jane Doe | jane@gmail.com |
+
+---
+
+<!-- Task List -->
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
